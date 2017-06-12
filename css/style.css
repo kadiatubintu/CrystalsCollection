@@ -1,0 +1,92 @@
+
+
+.container{
+	height: 800px;
+	width: 700px;
+	background-image: url("../images/bgrnd.jpg");
+	padding: 10px;
+	margin: 0px;
+	border: 3px solid black;
+}
+
+.header{
+ height: 50px;
+ width: 300px;
+ background-color: #FFE68C;
+ color: #FFFFFF;
+ margin: 0px 250px;
+}
+
+
+.box{
+	height: 120px;
+	width: 700px;
+	margin: 0px 50px;
+}
+
+.num1{
+	height: 100px;
+	width: 300px;
+	background-color: #228B22;	
+	color: #FFFFFF;
+	display: inline-block;
+	margin: 10px;
+	text-align: top-left;
+	position: absolute;
+	font-size: 300%;
+	float:left;
+
+}
+
+.score{
+	height: 100px;
+	width: 300px;
+	background-color: #008080;
+	color: #FFFFFF;
+	font-size: 300%;
+	float:right;
+	display: inline-block;
+	margin: 10px;
+
+}
+
+.scoreboard{
+	height: 80px;
+	width: 400px;
+	background-color: #87CEFA;
+	margin: 0px 150px;
+}
+
+
+
+.crystals{
+	height: 300px;
+	width: 600px;
+	margin: 0px 200px;
+
+}
+.diamond, .sapphire, .amethyst, .turquoise {
+	display: inline-block;
+	height: 150px;
+	width: 200px;
+
+}
+
+.crystals img{
+	display: inline-block;
+	height: 150px;
+	width: 200px;
+	margin: 0px;
+	padding: 0px;
+	border:2px solid #228B22;
+	border-radius: 10px;
+
+}
+
+p{
+	color: #228B22;
+	text-align: center;
+	font-size:300%;
+	margin: 0px;
+}
+
